@@ -7,7 +7,7 @@ Elective modules provide apprentices with the opportunity to delve more deeply i
 For the Cloud Elective, apprentices will spend the first portion of this elective completing the AWS-provided training for the [AWS Cloud Practitioner course](https://aws.amazon.com/certification/certified-cloud-practitioner/?trk=1d3789b7-cdfb-4b92-a125-75424f21eaaf&sc_channel=ps&s_kwcid=AL!4422!3!508672713544!e!!g!!aws%20cloud%20practitioner&ef_id=CjwKCAiAy_CcBhBeEiwAcoMRHBjtj8Hpym1Q_towaFK7I5-MdPzbI1sF6_ffCL3NcWJEeton6rS0YRoCMU4QAvD_BwE:G:s&s_kwcid=AL!4422!3!508672713544!e!!g!!aws%20cloud%20practitioner
 ) and completing the exam to gain their certification from AWS. In the second portion of the elective, apprentices will learn about IAM roles and Lambda serverless functions. The elective concludes with apprentices designing and building a cloud-based application that integrates functions (compute) and other serverless technologies into one bigger project.
 
-The second half of this module provides an overview of core computer science concepts of:
+The second half of this module provides an overview of core computer science concepts that are essential as they grow in their role on the job. These topics include:
 - Stacks and Queues
 - Linked Lists and Double Linked Lists
 - Big O
